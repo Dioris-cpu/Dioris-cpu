@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=diorisdiaz.com&style=for-the-badge&url=https%3A%2F%2Fdiorisdiaz.com)](https://diorisdiaz.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dioris_diaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dioris_diaz)
 
-## I'm a Developer, and a Polite Human!
+## I'm a Developer and a Polite Human Person!
 
-- 🌱 I’m currently learning React Native or at least tryning to 🤣
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
+- 🌱  I’m currently learning React Native or at least tryning to 🤣
+- 👯  I’m looking to collaborate with other developers.
+- 🥅  2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
 - ⚡ Fun fact: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though. 
 
 
