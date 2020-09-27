@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=diorisdiaz.com&style=for-the-badge&url=https%3A%2F%2Fdiorisdiaz.com)](https://diorisdiaz.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dioris_diaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dioris_diaz)
 
-[![website](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/536caf71805451.5ca67fdedeac3.gif)](https://diorisdiaz.com/)
+[![website](https://64.media.tumblr.com/03cc661c99d3c46e996ab9ba67f0c073/tumblr_njvtx9sxNl1rj9zdco1_r3_1280.gifv)](https://diorisdiaz.com/)
 
 ## I'm a Developer and a Polite Human Person!
 
