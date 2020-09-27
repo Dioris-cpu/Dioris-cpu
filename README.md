@@ -7,10 +7,10 @@
 
 ## I'm a Developer and a Polite Human Person!
 
-- 🌱 I’m currently learning React Native or at least attempting to 🤣
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
-- ⚡ Fun fact: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though.
+- ⚡ Fun facts: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though.  Mitch Hedberg is my spirit animal. 
 
 ### Connect with me:
 
