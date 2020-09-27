@@ -3,20 +3,20 @@
 [![Website](https://img.shields.io/website?label=diorisdiaz.com&style=for-the-badge&url=https%3A%2F%2Fdiorisdiaz.com)](https://diorisdiaz.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dioris_diaz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dioris_diaz)
 
+[![website](https://cdn.iconscout.com/icon/premium/png-512-thumb/orangutan-777817.png)](https://cdn.iconscout.com/icon/premium/png-512-thumb/orangutan-777817.png)
+
 ## I'm a Developer and a Polite Human Person!
 
-- 🌱  I’m currently learning React Native or at least tryning to 🤣
-- 👯  I’m looking to collaborate with other developers.
-- 🥅  2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
-- ⚡ Fun fact: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though. 
-
+- 🌱 I’m currently learning React Native or at least attempting to 🤣
+- 👯 I’m looking to collaborate with other developers.
+- 🥅 2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
+- ⚡ Fun fact: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though.
 
 ### Connect with me:
 
 [<img align="left" alt="diorisdiaz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="diorisdiaz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="diorisdiaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -40,9 +40,6 @@
 <br />
 <br />
 
-
-
-
 [website]: https://diorisdiaz.com/
 [twitter]: https://twitter.com/dioris_diaz
 [linkedin]: https://www.linkedin.com/in/dioris-diaz-18a053191/
@@ -57,7 +54,4 @@
 [mongodb]: https://www.mongodb.com/
 [git]: https://github.com/
 [terminal]: https://towardsdatascience.com/a-quick-guide-to-using-command-line-terminal-96815b97b955
-
-
-
-
+[icon]: https://cdn.iconscout.com/icon/premium/png-512-thumb/orangutan-777817.png
