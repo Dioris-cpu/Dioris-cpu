@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2020 Goals: Contribute to open source projects and make meaningful connections with other industry professionals .
-- ⚡ Fun facts: I play guitar really fast.....Like Eddie Van Halen got nothing on me. Jk don't tell him that I said that though.  
+- ⚡ Fun facts: I play guitar really fast.....Like Yngwie fast.  
 
 ### Connect with me:
 
